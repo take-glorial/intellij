@@ -4,10 +4,15 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://take.ipdisk.co.kr:8086" />
-          <option name="userName" value="glorial@take-it.co.kr" />
+          <option name="userName" value="glorial" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://take.ipdisk.co.kr:8086/demo/gittest.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\projects\IntelliJ" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
