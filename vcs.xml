@@ -4,7 +4,7 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://take.ipdisk.co.kr:8086" />
-          <option name="userName" value="glorial" />
+          <option name="userName" value="test" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://take.ipdisk.co.kr:8086/demo/gittest.git" />
