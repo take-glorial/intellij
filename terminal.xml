@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="wsl.exe" />
+    <option name="myShellPath" value="wsl.exe -d Ubuntu-20.04" />
     <option name="myTabName" value="Local" />
   </component>
 </application>
