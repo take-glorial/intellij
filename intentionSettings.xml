@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Change variable type to type of initializer" />
+    <ignoreAction name="Java/Declaration/Move initializer to constructor" />
+    <ignoreAction name="Kotlin/Convert property initializer to getter" />
+  </component>
+</application>
