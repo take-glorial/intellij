@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="oracle.19">
+      <artifact id="Oracle" name="Oracle" use="true" version="21.5.0.0" />
+    </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
     </driver>
